@@ -1,0 +1,17 @@
+{
+  "name": "png2tex",
+  "version": "1.0.0",
+  "description": "A Random Script To Create Roblox SkyBox",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gradient-string": "^1.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log('lol nope')"
+  },
+  "author": "!\"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢 †#6900",
+  "license": "ISC"
+}
